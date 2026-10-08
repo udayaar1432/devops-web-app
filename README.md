@@ -13,7 +13,7 @@ hello-world-war/
     └── main/
         ├── java/
         │   └── com/example/
-        │       └── HelloWorldServlet.java          # Servlet mapped to /hello
+        │       └── HelloWorldServlet.java          # Servlet mapped to /hello hi
         └── webapp/
             ├── index.html                          # Welcome page
             └── WEB-INF/
